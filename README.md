@@ -45,7 +45,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/OM-SARDAR/Eventra
+git clone https://github.com/OM-SARDAR/EVENTRA-LOCALHOST
 
 # Navigate into the frontend
 cd client
