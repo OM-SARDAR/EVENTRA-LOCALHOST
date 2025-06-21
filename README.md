@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/RealTime-QR%20Scanning-informational?style=flat-square&logo=socketdotio" />
 <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square&logo=github" />
 <br />
-<a href="https://github.com/OM-SARDAR/Eventra">
+<a href="https://github.com/OM-SARDAR/Eventra-LOCALHOST">
   <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github" alt="GitHub Repo" />
 </a>
 
