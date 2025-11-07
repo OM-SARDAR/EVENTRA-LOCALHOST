@@ -140,12 +140,12 @@ Build EVENTRA from the source and install dependencies:
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/kunalsarkar-bit/Eventra.git
+git clone https://github.com/OM-SARDAR/EVENTRA-LOCALHOST.git
 ```
 
 ### 2. Go to project folder
 ```bash
-cd Eventra
+cd EVENTRA-LOCALHOST
 ```
 
 ### 3. FOR THE FRONTEND PART :------------------------------------------------------------------------
@@ -180,12 +180,12 @@ cd Eventra
 
 ### 4. FOR THE BACKEND PART :------------------------------------------------------------------------
 
-  **A. Go to "ticket-backend" folder for accessing backend**
+  **A. Go to "server" folder for accessing backend**
   ```bash
-  cd ticket-backend
+  cd server
   ```
   
-  **B. Create a .env file inside "ticket-backend" folder**
+  **B. Create a .env file inside "server" folder**
   ```bash
   # Step 1: Create a new .env file
   touch .env
@@ -223,7 +223,7 @@ To run the project locally, follow these steps:
 
 ### For Backend (Server)
 ```bash
-cd ticket-backend
+cd server
 npm install
 npm start
 ```
@@ -263,7 +263,7 @@ You can now:
 **1. Start backend and frontend**
 ```bash
 # Terminal 1 - Backend
-cd ticket-backend
+cd server
 npm start
 
 # Terminal 2 - Frontend
@@ -309,7 +309,7 @@ That's all for manual testing — the goal is to verify that ticket generation, 
 
 ```
 Eventra/
-├── client/                    # Frontend React application
+├── Client/                    # Frontend React application
 │   ├── src/
 │   │   ├── components/       # Reusable UI components
 │   │   ├── pages/           # Page components
@@ -318,7 +318,7 @@ Eventra/
 │   ├── public/              # Static assets
 │   └── package.json         # Frontend dependencies
 │
-├── ticket-backend/           # Backend Node.js application
+├── Server/           # Backend Node.js application
 │   ├── models/              # MongoDB schemas
 │   ├── routes/              # API endpoints
 │   ├── controllers/         # Business logic
@@ -347,8 +347,8 @@ This project is licensed under the MIT License.
 ## Contact
 
 For questions or support, please reach out via:
-- GitHub: [kunalsarkar-bit](https://github.com/kunalsarkar-bit)
-- Repository: [Eventra](https://github.com/kunalsarkar-bit/Eventra)
+- GitHub: [Om Sardar](https://github.com/OM-SARDAR)
+- Repository: [Eventra](https://github.com/OM-SARDAR/EVENTRA-LOCALHOST)
 
 ---
 
