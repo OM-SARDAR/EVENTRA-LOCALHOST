@@ -145,14 +145,14 @@ git clone https://github.com/OM-SARDAR/EVENTRA-LOCALHOST.git
 
 ### 2. Go to project folder
 ```bash
-cd EVENTRA-LOCALHOST
+cd Eventra
 ```
 
 ### 3. FOR THE FRONTEND PART :------------------------------------------------------------------------
 
   **A. Go to "client" folder for accessing frontend**
   ```bash
-  cd client
+  cd Client
   ```
   
   **B. Create a .env file inside "client" folder**
@@ -182,7 +182,7 @@ cd EVENTRA-LOCALHOST
 
   **A. Go to "server" folder for accessing backend**
   ```bash
-  cd server
+  cd Server
   ```
   
   **B. Create a .env file inside "server" folder**
@@ -223,7 +223,7 @@ To run the project locally, follow these steps:
 
 ### For Backend (Server)
 ```bash
-cd server
+cd Server
 npm install
 npm start
 ```
@@ -231,7 +231,7 @@ This starts the backend server using Express on the configured port (default: **
 
 ### For Frontend (Client)
 ```bash
-cd client
+cd Client
 npm install
 npm run dev
 ```
@@ -263,11 +263,11 @@ You can now:
 **1. Start backend and frontend**
 ```bash
 # Terminal 1 - Backend
-cd server
+cd Server
 npm start
 
 # Terminal 2 - Frontend
-cd client
+cd Client
 npm run dev
 ```
 
