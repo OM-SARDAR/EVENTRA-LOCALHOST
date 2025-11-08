@@ -239,7 +239,7 @@ export default function TicketSalesPage() {
             ></div>
             <div className="p-4">
               <div className="flex justify-between items-center mb-2">
-                <h3 className="font-bold text-lg">Zone B</h3>
+                <h3 className="font-bold text-lg"> Zone Offline </h3>
                 <span
                   className={`px-2 py-1 text-xs rounded-full ${
                     currentTheme === "dark"
@@ -257,7 +257,7 @@ export default function TicketSalesPage() {
                     : "text-purple-700"
                 }`}
               >
-                350 Rupees
+                Offline Payment
               </p>
               <div className="flex justify-between items-center mt-3">
                 <span
@@ -304,7 +304,7 @@ export default function TicketSalesPage() {
             ></div>
             <div className="p-4">
               <div className="flex justify-between items-center mb-2">
-                <h3 className="font-bold text-lg">Zone C</h3>
+                <h3 className="font-bold text-lg">Zone Offline</h3>
                 <span
                   className={`px-2 py-1 text-xs rounded-full ${
                     currentTheme === "dark"
@@ -320,7 +320,7 @@ export default function TicketSalesPage() {
                   currentTheme === "dark" ? "text-blue-300" : "text-blue-700"
                 }`}
               >
-                200 Rupees
+                Offline Payment
               </p>
               <div className="flex justify-between items-center mt-3">
                 <span
@@ -367,7 +367,7 @@ export default function TicketSalesPage() {
             ></div>
             <div className="p-4">
               <div className="flex justify-between items-center mb-2">
-                <h3 className="font-bold text-lg">Zone D</h3>
+                <h3 className="font-bold text-lg">Zone Offline</h3>
                 <span
                   className={`px-2 py-1 text-xs rounded-full ${
                     currentTheme === "dark"
@@ -383,7 +383,7 @@ export default function TicketSalesPage() {
                   currentTheme === "dark" ? "text-teal-300" : "text-teal-700"
                 }`}
               >
-                100 Rupees
+                Offline Payment
               </p>
               <div className="flex justify-between items-center mt-3">
                 <span
